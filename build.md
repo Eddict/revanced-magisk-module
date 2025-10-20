@@ -1,3 +1,5 @@
+AmazonShopping (arm64-v8a): 30.19.0.100  
+AmazonShopping (arm-v7a): 30.19.0.100  
 YouTube: 20.14.43  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
