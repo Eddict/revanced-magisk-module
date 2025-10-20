@@ -9,7 +9,6 @@ parallel-jobs = 1
 [YouTube]
 enabled = true
 build-mode = "module"
-arch = "arm64-v8a"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
@@ -66,7 +65,8 @@ enabled = true
 build-mode = "module"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping"
-version = "latest"
+uptodown-dlurl = "https://amazon-mobile-llc-amazon.en.uptodown.com/android"
+dpi = "120-640dp"
 
 [IconPackStudio]
 enabled = false
