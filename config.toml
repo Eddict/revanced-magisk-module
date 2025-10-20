@@ -65,7 +65,7 @@ enabled = true
 build-mode = "module"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping"
-dpi = "120-640dp"
+dpi = "120-640dpi"
 
 [IconPackStudio]
 enabled = false
