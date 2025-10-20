@@ -71,5 +71,4 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shoppi
 [IconPackStudio]
 enabled = true
 build-mode = "module"
-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
